@@ -23,6 +23,9 @@ body {
 .contentbox{
     padding: 70px 120px;
 }
+img{
+    width: 100%;
+}
 .boxmedia {
     position: relative;
 }
